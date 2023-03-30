@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.FaceDetectionApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#DF6480</item>
+        <item name="colorPrimaryDark">#EA899C</item>
+        <item name="colorAccent">#C55682</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FaceDetectionApp</string>
+    <string name="opencamera">open camera </string>
+</resources>
