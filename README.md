@@ -1,6 +1,6 @@
 # FaceDetection_App
 
-This Application is Face Detection that can detect your face and determine the percentage of your smile
+This Application is Face Detection that can detect your face and determine the percentage of your smile.
 
 ![icon233](https://user-images.githubusercontent.com/117963273/230189775-edf34353-c07e-41aa-b26a-19a7d2b218d6.png)
 
@@ -18,3 +18,5 @@ i.e. how much they are open and it also determine the smile having on your face.
 This application needs to connect with the firebase to determine the percentages . There are some dependencies which are needed to implement in the 
 gradel file of the face detection application which are added by the help of Firebase in the face detection toolkit section.
 
+
+                                   THANK YOU!!🫰❤️
